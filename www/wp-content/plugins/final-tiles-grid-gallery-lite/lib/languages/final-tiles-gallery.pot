@@ -1,0 +1,535 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-01 14:02+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: FinalTiles_gallery.php:432
+msgid "FinalTiles Gallery >> Add Gallery"
+msgstr ""
+
+#: FinalTiles_gallery.php:432
+msgid "Add Gallery"
+msgstr ""
+
+#: FinalTiles_gallery.php:433
+msgid "FinalTiles Gallery >> Tutorial"
+msgstr ""
+
+#: FinalTiles_gallery.php:433
+msgid "Tutorial"
+msgstr ""
+
+#: FinalTiles_gallery.php:434
+msgid "FinalTiles Gallery >> Support"
+msgstr ""
+
+#: FinalTiles_gallery.php:434
+msgid "Support"
+msgstr ""
+
+#: admin/add-gallery.php:1 admin/overview.php:1 admin/support.php:1
+msgid "You are not allowed to call this page directly."
+msgstr ""
+
+#: admin/add-gallery.php:10
+msgid "Add new gallery wizard"
+msgstr ""
+
+#: admin/add-gallery.php:23
+msgid "Name of the gallery"
+msgstr ""
+
+#: admin/add-gallery.php:28
+msgid "Description of the gallery"
+msgstr ""
+
+#: admin/add-gallery.php:32
+msgid "Choose the source of the images"
+msgstr ""
+
+#: admin/add-gallery.php:35
+msgid "Media library"
+msgstr ""
+
+#: admin/add-gallery.php:39 admin/include/edit-gallery.php:224
+msgid "Recent posts with featured image"
+msgstr ""
+
+#: admin/add-gallery.php:49 admin/include/edit-gallery.php:228
+msgid "WooCommerce products"
+msgstr ""
+
+#: admin/add-gallery.php:54
+msgid "WordPress field for captions:"
+msgstr ""
+
+#: admin/add-gallery.php:57
+msgid "Don't use captions"
+msgstr ""
+
+#: admin/add-gallery.php:61
+msgid "Title"
+msgstr ""
+
+#: admin/add-gallery.php:65 admin/include/edit-gallery.php:439
+msgid "Caption"
+msgstr ""
+
+#: admin/add-gallery.php:69
+msgid "Description"
+msgstr ""
+
+#: admin/add-gallery.php:90
+msgid "Caption effect:"
+msgstr ""
+
+#: admin/add-gallery.php:92
+msgid "Fade"
+msgstr ""
+
+#: admin/add-gallery.php:93
+msgid "Slide from top"
+msgstr ""
+
+#: admin/add-gallery.php:94
+msgid "Slide from bottom"
+msgstr ""
+
+#: admin/add-gallery.php:95
+msgid "Slide from left"
+msgstr ""
+
+#: admin/add-gallery.php:96
+msgid "Slide from right"
+msgstr ""
+
+#: admin/add-gallery.php:97
+msgid "Rotate from left"
+msgstr ""
+
+#: admin/add-gallery.php:98
+msgid "Rotate from right"
+msgstr ""
+
+#: admin/add-gallery.php:104 admin/add-gallery.php:128
+#: admin/include/edit-gallery.php:296 admin/include/edit-gallery.php:349
+msgid "Categories:"
+msgstr ""
+
+#: admin/add-gallery.php:113 admin/include/edit-gallery.php:308
+msgid "Tags:"
+msgstr ""
+
+#: admin/add-gallery.php:122 admin/include/edit-gallery.php:319
+msgid "No tags found"
+msgstr ""
+
+#: admin/add-gallery.php:139
+msgid "Choose a default image size"
+msgstr ""
+
+#: admin/add-gallery.php:148
+msgid "You can customize each image later"
+msgstr ""
+
+#: admin/add-gallery.php:152 admin/include/edit-gallery.php:252
+msgid "Add images"
+msgstr ""
+
+#: admin/add-gallery.php:154
+msgid "You can add images now or later."
+msgstr ""
+
+#: admin/add-gallery.php:162
+msgid "Previous"
+msgstr ""
+
+#: admin/add-gallery.php:163
+msgid "Next"
+msgstr ""
+
+#: admin/add-gallery.php:168
+msgid "Success!"
+msgstr ""
+
+#: admin/add-gallery.php:169
+msgid "Your gallery"
+msgstr ""
+
+#: admin/add-gallery.php:169
+msgid "has been created. Copy the following shortcode:"
+msgstr ""
+
+#: admin/add-gallery.php:171
+msgid "and paste it inside a post or a page. Otherwise click"
+msgstr ""
+
+#: admin/add-gallery.php:171 admin/overview.php:18
+msgid "here"
+msgstr ""
+
+#: admin/add-gallery.php:171
+msgid ""
+"to customize\n"
+"\t\t\t      the gallery."
+msgstr ""
+
+#: admin/add-gallery.php:176 admin/add-gallery.php:185 admin/overview.php:92
+msgid "Close"
+msgstr ""
+
+#: admin/add-gallery.php:181
+msgid "Error!"
+msgstr ""
+
+#: admin/add-gallery.php:182
+msgid ""
+"For some reason it was not possible to save your gallery, please contact"
+msgstr ""
+
+#: admin/add-gallery.php:182
+msgid "support"
+msgstr ""
+
+#: admin/edit-gallery.php:26 admin/tutorial.php:5
+msgid "Documentation"
+msgstr ""
+
+#: admin/edit-gallery.php:26
+msgid "(download)"
+msgstr ""
+
+#: admin/edit-gallery.php:29
+msgid ""
+"Video tutorial: Tutorial: better grids with Final Tiles Grid Gallery for "
+"WordPress"
+msgstr ""
+
+#: admin/overview.php:16
+msgid "Welcome to Final Tiles Grid Gallery!"
+msgstr ""
+
+#: admin/overview.php:18
+msgid "Create your first awesome gallery, click"
+msgstr ""
+
+#: admin/overview.php:76
+msgid "Confirmation"
+msgstr ""
+
+#: admin/overview.php:77
+msgid "Do you really want to delete the gallery"
+msgstr ""
+
+#: admin/overview.php:80
+msgid "Yes"
+msgstr ""
+
+#: admin/overview.php:81
+msgid "No"
+msgstr ""
+
+#: admin/overview.php:88
+msgid "Copy and paste the following shortcode inside a post, page or widget:"
+msgstr ""
+
+#: admin/support.php:10
+msgid ""
+"Having problems with the plugin? No panic, our support is quite fast and "
+"reliable!"
+msgstr ""
+
+#: admin/support.php:13
+msgid ""
+"To get a fast solution you should fill a support ticket on our platform, "
+"before that"
+msgstr ""
+
+#: admin/support.php:13
+msgid "prepare these basic but important informations"
+msgstr ""
+
+#: admin/support.php:16
+msgid "URL of the page with the gallery;"
+msgstr ""
+
+#: admin/support.php:17
+msgid "describe the problem you are experiencing;"
+msgstr ""
+
+#: admin/support.php:18
+msgid "browser and operating system used."
+msgstr ""
+
+#: admin/support.php:21
+msgid ""
+"Another great help from you would be doing a couple of tests, try these "
+"simple operations and let us know the results:"
+msgstr ""
+
+#: admin/support.php:24
+msgid ""
+"Switch to the default WordPress theme and look if the problem is still "
+"there, if not we'll already know that the problem is related to your theme "
+"and we can be faster solving the issue;"
+msgstr ""
+
+#: admin/support.php:25
+msgid "See if the problem is repeatable, also on another computers."
+msgstr ""
+
+#: admin/support.php:27
+msgid ""
+"The more complete these informations are, the faster we'll be our response"
+msgstr ""
+
+#: admin/support.php:27
+msgid "(time zone permitting), thanks!"
+msgstr ""
+
+#: admin/support.php:29
+msgid "Go to GreenTreeLabs support platform"
+msgstr ""
+
+#: admin/tutorial.php:7
+msgid "Download"
+msgstr ""
+
+#: admin/tutorial.php:7
+msgid "the documentation or:"
+msgstr ""
+
+#: admin/tutorial.php:8
+msgid "read it online"
+msgstr ""
+
+#: admin/tutorial.php:11
+msgid "Watch a video tutorial: how to get better grids"
+msgstr ""
+
+#: admin/tutorial.php:12
+msgid "Learn how to make better grids with this video:"
+msgstr ""
+
+#: admin/include/edit-gallery.php:98
+msgid "Jump to setting"
+msgstr ""
+
+#: admin/include/edit-gallery.php:184
+msgid "Resolution"
+msgstr ""
+
+#: admin/include/edit-gallery.php:185
+msgid "Size factor"
+msgstr ""
+
+#: admin/include/edit-gallery.php:196
+msgid "Add resolution"
+msgstr ""
+
+#: admin/include/edit-gallery.php:216
+msgid "Images"
+msgstr ""
+
+#: admin/include/edit-gallery.php:221
+msgid "Source:"
+msgstr ""
+
+#: admin/include/edit-gallery.php:223
+msgid "User images"
+msgstr ""
+
+#: admin/include/edit-gallery.php:234 admin/include/edit-gallery.php:262
+#: admin/include/edit-gallery.php:329
+msgid "Image size"
+msgstr ""
+
+#: admin/include/edit-gallery.php:244 admin/include/edit-gallery.php:272
+#: admin/include/edit-gallery.php:339
+msgid "Want to add more images sizes?"
+msgstr ""
+
+#: admin/include/edit-gallery.php:244 admin/include/edit-gallery.php:272
+#: admin/include/edit-gallery.php:339
+msgid "Read a simple tutorial."
+msgstr ""
+
+#: admin/include/edit-gallery.php:246 admin/include/edit-gallery.php:274
+#: admin/include/edit-gallery.php:341
+msgid "About choosing a proper image size:"
+msgstr ""
+
+#: admin/include/edit-gallery.php:246
+msgid ""
+"Final Tiles Gallery doesn't scale down the images when there's enough space, "
+"it gives you the freedom to choose your favourite size for each image. So "
+"you should use images that are smaller than the container, choose the"
+msgstr ""
+
+#: admin/include/edit-gallery.php:246 admin/include/edit-gallery.php:276
+#: admin/include/edit-gallery.php:343
+msgid "thumbnail"
+msgstr ""
+
+#: admin/include/edit-gallery.php:246 admin/include/edit-gallery.php:276
+#: admin/include/edit-gallery.php:343
+msgid "or"
+msgstr ""
+
+#: admin/include/edit-gallery.php:246 admin/include/edit-gallery.php:277
+#: admin/include/edit-gallery.php:344
+msgid "medium"
+msgstr ""
+
+#: admin/include/edit-gallery.php:246 admin/include/edit-gallery.php:277
+#: admin/include/edit-gallery.php:344
+msgid "size, for example."
+msgstr ""
+
+#: admin/include/edit-gallery.php:248 admin/include/edit-gallery.php:279
+#: admin/include/edit-gallery.php:346
+msgid "How to get a better grid? Watch the"
+msgstr ""
+
+#: admin/include/edit-gallery.php:248 admin/include/edit-gallery.php:279
+#: admin/include/edit-gallery.php:346
+msgid "video tutorial"
+msgstr ""
+
+#: admin/include/edit-gallery.php:253
+msgid "Add video"
+msgstr ""
+
+#: admin/include/edit-gallery.php:256
+msgid ""
+"For multiple selections: Click+CTRL.\n"
+"\t\t\t\t\t\tDrag images to change order."
+msgstr ""
+
+#: admin/include/edit-gallery.php:274 admin/include/edit-gallery.php:341
+msgid ""
+"Final Tiles Gallery doesn't scale down the images\n"
+"\t\t\t\t\t\twhen there's enough space, it gives you the freedom to choose "
+"your favourite size for each image.\n"
+"\t\t\t\t\t\tSo you should use images that are smaller than the container, "
+"choose the"
+msgstr ""
+
+#: admin/include/edit-gallery.php:282
+msgid "Post type:"
+msgstr ""
+
+#: admin/include/edit-gallery.php:365
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/include/edit-gallery.php:367
+msgid "Select all"
+msgstr ""
+
+#: admin/include/edit-gallery.php:368
+msgid "Deselect all"
+msgstr ""
+
+#: admin/include/edit-gallery.php:369
+msgid "Toggle selection"
+msgstr ""
+
+#: admin/include/edit-gallery.php:370
+msgid "Assign filters"
+msgstr ""
+
+#: admin/include/edit-gallery.php:371
+msgid "Remove"
+msgstr ""
+
+#: admin/include/edit-gallery.php:375
+msgid "List View"
+msgstr ""
+
+#: admin/include/edit-gallery.php:377
+msgid "Big"
+msgstr ""
+
+#: admin/include/edit-gallery.php:378
+msgid "Medium"
+msgstr ""
+
+#: admin/include/edit-gallery.php:379
+msgid "Small"
+msgstr ""
+
+#: admin/include/edit-gallery.php:387 admin/include/edit-gallery.php:425
+#: admin/include/edit-gallery.php:463
+msgid "Cancel"
+msgstr ""
+
+#: admin/include/edit-gallery.php:388
+msgid "Proceed"
+msgstr ""
+
+#: admin/include/edit-gallery.php:417
+msgid "Paste here the embed code (it must be an "
+msgstr ""
+
+#: admin/include/edit-gallery.php:417
+msgid "iframe"
+msgstr ""
+
+#: admin/include/edit-gallery.php:418
+msgid "and it must contains the attributes"
+msgstr ""
+
+#: admin/include/edit-gallery.php:418
+msgid "width"
+msgstr ""
+
+#: admin/include/edit-gallery.php:418
+msgid "and"
+msgstr ""
+
+#: admin/include/edit-gallery.php:418
+msgid "height"
+msgstr ""
+
+#: admin/include/edit-gallery.php:424 admin/include/edit-gallery.php:462
+msgid "Save"
+msgstr ""
+
+#: admin/include/edit-gallery.php:432
+msgid "Edit image"
+msgstr ""
+
+#: admin/include/edit-gallery.php:445
+msgid "Link"
+msgstr ""
+
+#: admin/include/edit-gallery.php:449
+msgid "Link target"
+msgstr ""
+
+#: admin/include/edit-gallery.php:452
+msgid "Default target"
+msgstr ""
+
+#: admin/include/edit-gallery.php:453
+msgid "Open in same page"
+msgstr ""
+
+#: admin/include/edit-gallery.php:454
+msgid "Open in _blank"
+msgstr ""

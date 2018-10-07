@@ -1,0 +1,250 @@
+# Translation of Themes - Dyad in English (Canada)
+# This file is distributed under the same license as the Themes - Dyad package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 14:02:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Dyad\n"
+
+#. Description of the plugin/theme
+msgid "Dyad pairs your written content and images together in perfect balance. The theme is geared towards photographers, foodies, artists, and anyone who is looking for a strong photographic presence on their website."
+msgstr "Dyad pairs your written content and images together in perfect balance. The theme is geared towards photographers, foodies, artists, and anyone who is looking for a strong photographic presence on their website."
+
+#. Theme Name of the plugin/theme
+msgid "Dyad"
+msgstr "Dyad"
+
+#: inc/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr "Portfolios"
+
+#: inc/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: inc/plugin-enhancements.php:142
+msgid "Comics"
+msgstr "Comics"
+
+#: inc/plugin-enhancements.php:133
+msgid "Menus"
+msgstr "Menus"
+
+#: inc/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: inc/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr "Featured Content"
+
+#: inc/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr "Site Logo"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:25
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:34 template-parts/content-single.php:41
+#: template-parts/content.php:32
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: template-parts/content-featured-post.php:32
+msgid "Featured"
+msgstr "Featured"
+
+#: single.php:19
+msgid "Next Post"
+msgstr "Next Post"
+
+#: single.php:18
+msgid "Previous Post"
+msgstr "Previous Post"
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:47
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33 template-parts/content-page.php:27
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/template-tags.php:31
+msgctxt "date published"
+msgid "on"
+msgstr "on"
+
+#: inc/template-tags.php:15
+msgid "Posted by"
+msgstr "Posted by "
+
+#: inc/plugin-enhancements.php:288
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+
+#: inc/plugin-enhancements.php:263
+msgid "Install"
+msgstr "Install"
+
+#: inc/plugin-enhancements.php:261
+msgid " Please install %1$s. %2$s"
+msgstr " Please install %1$s. %2$s"
+
+#: inc/plugin-enhancements.php:253
+msgid "Activate"
+msgstr "Activate"
+
+#: inc/plugin-enhancements.php:251
+msgid " Please activate %1$s. %2$s"
+msgstr " Please activate %1$s. %2$s"
+
+#: inc/plugin-enhancements.php:179
+msgid "Custom Content Types module"
+msgstr "Custom Content Types module"
+
+#: inc/plugin-enhancements.php:178
+msgid "no specific module needed"
+msgstr "no specific module needed"
+
+#: inc/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr "Jetpack plugin"
+
+#: inc/plugin-enhancements.php:82
+msgid "The %1$s is required to use some of this theme&rsquo;s features, including: "
+msgstr "The %1$s is required to use some of this theme&rsquo;s features, including: "
+
+#: header.php:41
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:189
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:183
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:112
+msgid "Displays in footer area."
+msgstr "Displays in footer area."
+
+#: functions.php:110
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:96
+msgid "Read More"
+msgstr "Read more"
+
+#: functions.php:41
+msgid "Social Links Menu"
+msgstr "Social Links Menu"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:46
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:44
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:44
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Comments are closed"
+
+#: comments.php:47 comments.php:63
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:46 comments.php:62
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:43 comments.php:59
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:37
+msgid "Add yours"
+msgstr "Add yours"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "One Comment"
+msgstr[1] "%1$s Comments"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can't be found."
+msgstr "Oops! That page can't be found."
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.com/themes"
+msgstr "http://wordpress.com/themes"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/dyad/"
+msgstr "https://wordpress.com/themes/dyad/"

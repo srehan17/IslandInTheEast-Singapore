@@ -1,0 +1,719 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paraxe\n"
+"POT-Creation-Date: 2014-08-18 02:07+0530\n"
+"PO-Revision-Date: 2014-08-18 02:07+0530\n"
+"Last-Translator: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language-Team: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _ex;_x;_e;__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: /Volumes/Macintosh HD/Users/Rohit/Documents/Sites/"
+"Wordpress/wp-content/themes/Paraxe\n"
+"X-Poedit-SearchPathExcluded-0: /Volumes/Macintosh HD/Users/Rohit/Documents/"
+"Sites/Wordpress/wp-content/themes/Paraxe/assets/frameworks/redux\n"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Huy! Esa página no puede
+ ser encontrado."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/404.php:27
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#. translators: %1$s: smiley
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:21
+#, php-format
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:24
+#, php-format
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:27
+#, php-format
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:27
+msgid "F Y"
+msgstr "F Y"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:30
+#, php-format
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:30
+msgid "Y"
+msgstr "Y"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:33
+msgid "Asides"
+msgstr "Asides"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:36
+msgid "Galleries"
+msgstr "Galleries"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:39
+msgid "Images"
+msgstr "Images"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:42
+msgid "Videos"
+msgstr "Videos"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:45
+msgid "Quotes"
+msgstr "Quotes"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:48
+msgid "Links"
+msgstr "Links"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:51
+msgid "Statuses"
+msgstr "Statuses"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:54
+msgid "Audios"
+msgstr "Audios"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:57
+msgid "Chats"
+msgstr "Chats"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/archive.php:60
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/sidebar.php:12
+msgid "Archives"
+msgstr "Archives"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Listo para publicar tu primer post? <A href = \"%1$s\"> Comience aquí </a>."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Parece can & rsquo; t encontrar lo que usted eres buscando. Puede que la búsqueda puede ayudar."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-page.php:15
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-single.php:20
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content.php:30
+msgid "Pages:"
+msgstr "Pages:"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-page.php:20
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-single.php:60
+msgid "<i class=\"fa fa-edit\"></i> Edit"
+msgstr "<i class=\"fa fa-edit\"></i> Edit"
+
+#. translators: used between list items, there is a space after the comma
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-single.php:29
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-single.php:32
+msgid ", "
+msgstr ", "
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-single.php:37
+#, php-format
+msgid ""
+"<i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s"
+"\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-single.php:39
+#, php-format
+msgid ""
+"<i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-single.php:45
+#, php-format
+msgid ""
+"<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-tags\"></i> %2$s "
+"<i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/content-single.php:47
+#, php-format
+msgid ""
+"<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-link\"></i> <a "
+"href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/footer.php:19
+#, php-format
+msgid "Designed by %1$s."
+msgstr "Designed by %1$s."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/functions.php:50
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/functions.php:51
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/functions.php:52
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/functions.php:88
+msgid "Primary Sidebar"
+msgstr "Primary Sidebar"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/functions.php:97
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/functions.php:106
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/functions.php:115
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/functions.php:124
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/header.php:60
+msgid "Menu"
+msgstr "Menu"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/header.php:61
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/home.php:18
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:55
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:56
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:81
+#, php-format
+msgid ""
+"<span class=\"posted-on\"><i class=\"fa fa-calendar\"></i> %1$s</span><span "
+"class=\"byline\"> <i class=\"fa fa-user\"></i> %2$s</span>"
+msgstr "<span class=\"posted-on\"><i class=\"fa fa-calendar\"></i> %1$s</span><span class=\"byline\"> <i class=\"fa fa-user\"></i> %2$s</span>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:137
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:137
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:155
+msgid "Edit"
+msgstr "Edit"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:152
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/inc/template-tags.php:159
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:110
+msgid "Section via hook"
+msgstr "Section via hook"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:111
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:189
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "Customize &#8220;%s&#8221;"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:196
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:199
+msgid "Current theme preview"
+msgstr "Current theme preview"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:206
+#, php-format
+msgid "By %s"
+msgstr "By %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:207
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:208
+msgid "Tags"
+msgstr "Tags"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:213
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:213
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr "http://codex.wordpress.org/Child_Themes"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:237
+msgid "Header"
+msgstr "Header"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:245
+msgid "Logo"
+msgstr "Logo"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:248
+msgid "Enabling Logo will Disable the default title and description."
+msgstr "Enabling Logo will Disable the default title and description."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:249
+msgid "Upload any Image. It will not be resized Automatically."
+msgstr "Upload any Image. It will not be resized Automatically."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:255
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:348
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:371
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:443
+msgid ""
+"<a href=\"http://rohitink.com/product/paraxe-pro/\" target=\"_blank"
+"\">Upgrade to Paraxe Pro</a>"
+msgstr "<a href=\"http://rohitink.com/product/paraxe-pro/\" target=\"_blank\">Upgrade to Paraxe Pro</a>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:256
+msgid ""
+"With Paraxe Pro, you can do a lot more with your site. Add Favicon. Manage "
+"Sidebars, Choose Full Width Layout for Posts, Pages, Homepage, etc. Set "
+"Colors for various Theme components, Choose from over 8 different colored "
+"skins."
+msgstr "With Paraxe Pro, you can do a lot more with your site. Add Favicon. Manage Sidebars, Choose Full Width Layout for Posts, Pages, Homepage, etc. Set Colors for various Theme components, Choose from over 8 different colored skins."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:265
+msgid "Parallax Box"
+msgstr "Parallax Box"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:272
+msgid "Enable The parallax Box on Home"
+msgstr "Enable The parallax Box on Home"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:273
+msgid "This will enable slider on both the front page, and homepage."
+msgstr "This will enable slider on both the front page, and homepage."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:280
+msgid "Choosing the Best Image."
+msgstr "Choosing the Best Image."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:281
+msgid ""
+"For Best Results, choose a Parallax Image which doesn't contain any textual "
+"information. <strong>If you Do not choose Separate Images for Smartphones "
+"and Tablets, then Desktop Image will be used for Both.</strong>"
+msgstr "For Best Results, choose a Parallax Image which doesn't contain any textual information. <strong>If you Do not choose Separate Images for Smartphones and Tablets, then Desktop Image will be used for Both.</strong>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:287
+msgid "Parallax Image (Desktop)"
+msgstr "Parallax Image (Desktop)"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:290
+msgid ""
+"Recommended Width: 1200px. Recommended Height: 400 to 600px, depending on "
+"the content size."
+msgstr "Recommended Width: 1200px. Recommended Height: 400 to 600px, depending on the content size."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:291
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:302
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:313
+msgid "Upload any Image in any Format. It will not be resized Automatically."
+msgstr "Upload any Image in any Format. It will not be resized Automatically."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:298
+msgid "Parallax Image (Tablets)"
+msgstr "Parallax Image (Tablets)"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:301
+msgid ""
+"Recommended Width: 991px. Recommended Height: 400 to 600px, depending on the "
+"content size."
+msgstr "Recommended Width: 991px. Recommended Height: 400 to 600px, depending on the content size."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:309
+msgid "Parallax Image (Smartphones & Mobiles)"
+msgstr "Parallax Image (Smartphones & Mobiles)"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:312
+msgid ""
+"Recommended Width: 550px. Recommended Height: 400 to 600px, depending on the "
+"content size."
+msgstr "Recommended Width: 550px. Recommended Height: 400 to 600px, depending on the content size."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:319
+msgid "Parallax Heading"
+msgstr "Parallax Heading"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:320
+msgid "Enter Title for Parallax Box"
+msgstr "Enter Title for Parallax Box"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:326
+msgid "Description"
+msgstr "Description"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:327
+msgid "A Small Description, related to the Title you wrote above."
+msgstr "A Small Description, related to the Title you wrote above."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:333
+msgid "Button"
+msgstr "Button"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:334
+msgid "Button Text"
+msgstr "Button Text"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:340
+msgid "Link"
+msgstr "Link"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:341
+msgid "Where would you like the Button to Link to?"
+msgstr "Where would you like the Button to Link to?"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:349
+msgid ""
+"Paraxe Pro's pro Parallax Box comes with Many Options, including Option to "
+"Disable Parallax, Choose Parallax Speed, Add More Such Boxes, Replace It "
+"with a Slider, Pages on which this Box should be enabled, and a lot more "
+"settings."
+msgstr "Paraxe Pro's pro Parallax Box comes with Many Options, including Option to Disable Parallax, Choose Parallax Speed, Add More Such Boxes, Replace It with a Slider, Pages on which this Box should be enabled, and a lot more settings."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:356
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:363
+msgid "Enable Social Icons"
+msgstr "Enable Social Icons"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:364
+msgid ""
+"This will enable social icons in the top menu bar. If you want a full width "
+"menu, then you need to disable the social icons."
+msgstr "This will enable social icons in the top menu bar. If you want a full width menu, then you need to disable the social icons."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:372
+msgid ""
+"Pro Version Comes with Over 15 Social Icons, and we add any icons as per "
+"user request too."
+msgstr "Pro Version Comes with Over 15 Social Icons, and we add any icons as per user request too."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:377
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:378
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:386
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:394
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:402
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:410
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:418
+msgid "Enter Complete URL including http://"
+msgstr "Enter Complete URL including http://"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:385
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:393
+msgid "Google+"
+msgstr "Google+"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:401
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:409
+msgid "Instagram"
+msgstr "Instagram"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:417
+msgid "Flickr"
+msgstr "Flickr"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:427
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:434
+msgid "CSS Code"
+msgstr "CSS Code"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:435
+msgid "Paste your CSS code here."
+msgstr "Paste your CSS code here."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:444
+msgid ""
+"With Paraxe Pro, you can Add Custom Javascript to Head and footer of the "
+"site. Pro version also supports input of Google Analytics, etc."
+msgstr "With Paraxe Pro, you can Add Custom Javascript to Head and footer of the site. Pro version also supports input of Google Analytics, etc."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:452
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:453
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr "Import and Export your Redux Framework settings from file, text or URL."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:472
+msgid "Theme Information"
+msgstr "Theme Information"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:473
+msgid "This is how your site will look once ready."
+msgstr "This is how your site will look once ready."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:490
+msgid "Theme Information 1"
+msgstr "Theme Information 1"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:491
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:497
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<p>This is the tab content, HTML is allowed.</p>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:496
+msgid "Theme Information 2"
+msgstr "Theme Information 2"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:501
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p>This is the sidebar content, HTML is allowed.</p>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:521
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:522
+msgid "Paraxe Theme Options"
+msgstr "Paraxe Theme Options"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:614
+msgid "<p>Welcome to Paraxe Theme Options"
+msgstr "<p>Welcome to Paraxe Theme Options"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:616
+msgid "<p>Upgrade to pro</p>"
+msgstr "<p>Upgrade to pro</p>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/options.php:620
+msgid "<p>To report bugs, send us an email.</p>"
+msgstr "<p>To report bugs, send us an email.</p>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/searchform-top.php:11
+msgid "Search for:"
+msgstr "Search for:"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/searchform-top.php:12
+msgid "Search...."
+msgstr "Search...."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/Paraxe/sidebar.php:19
+msgid "Meta"
+msgstr "Meta"
+

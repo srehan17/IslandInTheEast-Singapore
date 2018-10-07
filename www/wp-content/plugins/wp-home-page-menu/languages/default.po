@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Home Page Menu\n"
+"POT-Creation-Date: 2017-04-17 16:27+0530\n"
+"PO-Revision-Date: 2017-04-17 16:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: Free WP TP <freewptp@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-wp-home-page-menu-admin.php:81
+msgid "Get Support"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:82
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:101
+#, php-format
+msgid ""
+"To configure <em>WP Home Page Menu plugin</em> please visit its <a href="
+"\"%1$s\">configuration page</a> and to get plugin support contact us on <a "
+"href=\"%2$s\">plugin support forum</a> or <a href=\"%3$s\">contact us page</"
+"a>."
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:122
+#: ../admin/class-wp-home-page-menu-admin.php:153
+msgid "WP Home Page Menu Settings"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:122
+msgid "WP Home Page Menu"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:136
+msgid "Like WP Home Page Menu?"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:136
+msgid "Give us a rating"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:139
+msgid "Need Help or Have Suggestions?"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:139
+msgid "contact us on"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:139
+msgid "Plugin support forum"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:139
+msgid "or"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:139
+msgid "Contact us page"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:142
+msgid "Access Plugin Documentation on"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:155
+msgid "Enable Home Page Menu : "
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:156
+msgid "Choose Menu Locations : "
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:157
+msgid "Home Page Menu Label : "
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:158
+msgid "Home Page Menu Title : "
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:159
+msgid "Home Page Menu Classes : "
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:160
+msgid "My Site Uses Pages Menu? : "
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:168
+msgid ""
+"Configure the WP Home Page Menu plugin settings displayed below on this page "
+"to enable or disable the home page menu in your site navigation bar."
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:178
+msgid "Enable"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:213
+msgid "No navigation menu registered on your site."
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:223
+#: ../admin/class-wp-home-page-menu-admin.php:232
+#: ../public/class-wp-home-page-menu-public.php:62
+#: ../public/class-wp-home-page-menu-public.php:63
+#: ../public/class-wp-home-page-menu-public.php:74
+msgid "Home"
+msgstr ""
+
+#: ../admin/class-wp-home-page-menu-admin.php:252
+msgid "Yes"
+msgstr ""

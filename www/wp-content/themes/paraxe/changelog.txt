@@ -1,0 +1,101 @@
+CHANGELOG
+---------
+
+Version 1.2.1
+
+	i) Fixed WC 3 Issues
+
+Version 1.2.0.3
+
+	i) Fixed Paraxe Logo
+
+Version 1.2.0.2
+
+	i) Fixed Comments/Avatars not appearing.
+
+Version 1.2.0.1
+
+	i) Fixes Scrollbar appearing Issue on Windows Browsers
+
+Version 1.2
+
+	i) Major Update - Switch to Customizer
+
+Version 1.0.0.7
+
+	i) Corrected 404 Error in console due to bxslider.
+	
+Version 1.0.0.6
+
+	i) Design Updates. Fixed Issues with parallax Scrolling.
+	ii) Scrollbars appearing in old browsers. Fixed.
+
+Version 1.0.0.5
+
+	i) Removed top-left.php
+	ii) Added Spanish and German Translations.
+
+Version 1.0.0.4
+
+	i) Fixed Major Bug, resulting into a Fatal Error
+	ii) Removed Config.codekit
+
+Version 1.0.0.2
+
+	i) Updated Redux Framework.
+	ii) Removed Redux Framework's Tracking Feature. Disabled Opt ins too. No Tracking, whatsoever.
+
+Version 1.0.0.1
+
+	i) Added Missing Text Domain
+	
+Version 1.0
+
+	i) Escaped Output in Parallax.php
+	ii) Renamed Theme Options Class Name
+	iii) Removed Title Attr from Social Default
+	iv) Internationalized Social-tc.php
+	v) Renamed Thumbnail to paraxe_grid3
+	vi) Changed Default Excerpt Length, and the way its outputted.
+	vii) Removed config.codekit
+	viii) Removed rtl.css
+	ix) Corrected the link to Customizer.js in inc/customizer.php
+	x) Removed Fonts Folder.
+	xi) Added Demo/Upgrade & Support Forum Links in Theme Options.
+
+Version 0.95
+
+	i) Added Font Awesome License to Readme.
+	ii) Removed Config.codekit file.
+	iii) Deleted TinyNav
+	iv) Added Stellar License
+
+Version 0.94
+
+	i) Stated Font Awesome License
+	ii) Added Theme URI
+	iii) Created Separate Changelog.txt
+	iv) Fixed Font Loading Issues. Enqueued Properly.
+	v) Fixed WooCommerce Pagination Issues.
+	vi) Fixed Display of Page Titles on Certain Archive Pages.
+	vii) Other Minor Style Related Fixes.
+	viii) Fixed Display of Gallery.
+
+Version 0.92
+
+	i) Set Default Sized for WooCommerce Thumbnails
+	ii) CSS Issues Fixed.
+	iii) Fixed Showcase in Firefox
+	iv) Other Minor Bug Fixes.
+
+Version 0.91
+
+	i) Globalized $content_width
+	ii) Added Proper Copyright Details
+	iii) Fixed wp_nav_menu call in footer.php
+	iv) Minor CSS Fixes
+	v) FIxed Row Issue on iPads
+
+Version 0.9
+
+	i) Initial Release.

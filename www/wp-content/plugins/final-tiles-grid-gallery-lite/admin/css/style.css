@@ -1,0 +1,666 @@
+@import "materialize.css";
+#wpcontent {
+  padding-left: 0;
+}
+#media-attachment-media_category-filters,
+#media-attachment-date-filters {
+  display: inline;
+}
+.list-view-control .selected {
+  border-bottom: 2px solid;
+}
+#gallery-list {
+  margin-top: 2rem;
+}
+#gallery-list .card {
+  padding: 0;
+}
+#gallery-list .card .card-content {
+  cursor: pointer;
+}
+#gallery-list .card .data {
+  background-size: cover;
+  background-position: 50% 50%;
+}
+#gallery-list .card .card-action,
+#gallery-list .card .card-content {
+  background: rgba(0, 0, 0, 0.5);
+  transition: all .2s;
+}
+#gallery-list .card:hover .card-content {
+  background: rgba(0, 0, 0, 0);
+}
+#adv {
+  margin:20px 0;
+}
+#adv img {
+    width: 100%;
+}
+.ftg-everlightbox-settings {
+  display: none;
+}
+.pro-cell {
+    background: #039BE5;
+    font-size: 18px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    padding: 10px;
+    transition: all .3s;
+}
+.pro-cell a {
+    transition: all .3s;
+    color: #fff;
+}
+.bulk .options {
+  margin-bottom: 20px;
+}
+.bulk .options > span {
+  display: inline-block;
+  padding: 4px;
+  border: 1px solid #666;
+  margin: 0 2px;
+  background: #fff;
+}
+.bulk .options > span .btn {
+  font-size: 11px;
+  line-height: 28px;
+  height: auto;
+  padding: 0 1em;
+  margin-bottom: 0;
+}
+.waves-light.btn {
+  color: #fff;
+}
+.waves-light.btn:hover {
+  color: #fff;
+}
+.card {
+  padding: 0;
+  min-width: 0;
+  max-width: 999em;
+}
+#top {
+  padding: 1rem 0 3rem 40px;
+  background-image: url('../images/colors.jpg');
+  background-repeat: repeat-x;
+  background-position: left bottom;
+  font-family: Roboto, 'sans-serif';
+}
+#top h1 {
+  color: #fff;
+  font-size: 3.4rem;
+  margin: 16px 0 25px 0;
+  font-weight: 300;
+}
+#top h1 small {
+  font-size: 1rem;
+}
+#top h4 {
+  margin: 17px 0 13px 0;
+}
+#support-page {
+  background: #fff;
+  font-family: Roboto, 'sans-serif';
+  padding: 40px;
+}
+#support-page p {
+  font-size: 16px;
+  color: #666;
+}
+#support-page ul {
+  margin: 40px 20px;
+}
+#support-page ul li {
+  list-style-type: circle;
+  font-size: 18px;
+  line-height: 1.5;
+}
+#support-page .buttons {
+  margin-top: 40px;
+}
+.bd {
+  padding: 0px 40px;
+}
+.bd .gallery-hd {
+  margin: 60px 0;
+}
+.bd .gallery-hd code {
+  font-size: 1rem;
+}
+.input-field {
+  margin-bottom: 20px;
+}
+.input-field label {
+  left: 0;
+}
+#ftg-wizard {
+  margin: 40px auto;
+  padding: 20px;
+  max-width: 600px;
+  box-shadow: #ccc 0px 0px 40px;
+  border-radius: 4px;
+  background: #fff;
+}
+#ftg-wizard fieldset {
+  border: 0;
+  display: none;
+}
+#ftg-wizard fieldset:first-of-type {
+  display: block;
+}
+#ftg-wizard fieldset select {
+  height: 3rem;
+}
+#ftg-wizard h1 {
+  font-size: 32px;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0;
+}
+#ftg-wizard h1 small {
+  font-size: 12px;
+}
+#ftg-wizard h2 {
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 50px;
+  line-height: 1;
+}
+#ftg-wizard h5 {
+  margin-bottom: 20px;
+}
+#ftg-wizard .field {
+  margin-bottom: 40px;
+}
+#ftg-wizard .images {
+  padding: 10px;
+  max-height: 300px;
+  overflow: auto;
+}
+#ftg-wizard .images .tile {
+  margin: 0 10px 10px 0;
+  width: 23%;
+  display: inline-block;
+  position: relative;
+}
+#ftg-wizard .images .tile img {
+  width: 100%;
+}
+#ftg-wizard .images .tile a {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  z-index: 10;
+  display: none;
+  width: 26px;
+  height: 26px;
+  line-height: 26px;
+}
+#ftg-wizard .images .tile a i {
+  line-height: 26px;
+  font-size: 1.2rem;
+}
+#ftg-wizard .images .tile:hover a {
+  display: block;
+}
+#ftg-wizard .images .tile:nth-child(4n) {
+  margin-right: 0;
+}
+#ftg-wizard footer {
+  background: transparent;
+  text-align: right;
+}
+#ftg-wizard footer .prev {
+  visibility: hidden;
+}
+#ftg-wizard .loading {
+  display: none;
+}
+.modal p {
+  font-size: 16px;
+}
+.modal code {
+  display: block;
+  margin: 20px;
+  padding: 10px;
+  font-size: 16px;
+}
+.modal a {
+  outline: 0;
+}
+.modal .modal-content,
+.modal .modal-footer {
+  background: #fff;
+}
+#gallery-list .card p {
+  height: 40px;
+  overflow: hidden;
+}
+#gallery-list .card .card-action {
+  padding: 10px 20px;
+  text-align: center;
+}
+#gallery-list .card .card-action a {
+  margin: 0 10px;
+  font-size: 20px;
+  color: #fff;
+}
+#gallery-list .card .card-image {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+}
+#gallery-list .card .card-content {
+  height: 180px;
+}
+#gallery-list .card .card-title {
+  line-height: 32px;
+  margin-bottom: 18px;
+  display: block;
+}
+#edit-gallery .tab {
+  padding: 20px;
+}
+#edit-gallery label {
+  color: #333;
+  font-size: 1rem;
+  top: 0.1rem;
+  height: auto;
+}
+#edit-gallery .input-field {
+  margin-bottom: 0;
+}
+#edit-gallery .input-field input[type=text],
+#edit-gallery .input-field input[type=password],
+#edit-gallery .input-field input[type=email],
+#edit-gallery .input-field input[type=url],
+#edit-gallery .input-field input[type=date],
+#edit-gallery .input-field input[type=tel],
+#edit-gallery .input-field input[type=number],
+#edit-gallery .input-field input[type=search],
+#edit-gallery .input-field textarea.materialize-textarea {
+  font-size: 2rem;
+}
+#edit-gallery select {
+  font-size: 1rem;
+  background: #fff;
+}
+#edit-gallery .jump-head {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+  padding: 20px 0;
+}
+#edit-gallery .jump-head select {
+  height: 2rem;
+  display: inline;
+}
+#edit-gallery .jump {
+  width: auto;
+}
+.bullet-menu {
+  position: fixed;
+  bottom: 20px;
+  right: 50px;
+}
+.update-gallery {
+  position: fixed;
+  bottom: 20px;
+  right: 120px;
+}
+.collapsible li {
+  margin-bottom: 0;
+}
+.collapsible li .alternate {
+  background: transparent;
+}
+.collapsible li .collapsible-header {
+  font-size: 2rem;
+  height: 5rem;
+  line-height: 5rem;
+}
+.collapsible li .collapsible-header i {
+  line-height: 5rem;
+}
+.collapsible li .field .text {
+  background: #fff;
+  padding: 20px;
+}
+.collapsible li .field .text .pickColor {
+  height: auto;
+}
+.collapsible li .field .text .wp-color-result {
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  height: 24px;
+}
+.collapsible li .field .text .wp-color-result::after {
+  border-radius: 0;
+  -webkit-border-radius: 0;
+}
+.collapsible li textarea {
+  height: 100px;
+}
+.collapsible li th,
+.collapsible li td {
+  vertical-align: top;
+}
+.collapsible li th {
+  border-radius: 0;
+}
+.collapsible li th[scope=row] {
+  width: 200px;
+  padding-top: 30px;
+}
+.collapsible li tr.slider {
+  height: auto;
+}
+.collapsible li tr.filter {
+  float: none;
+  margin: 0;
+}
+.collapsible li .toggle div.help {
+  display: none;
+}
+.collapsible li .toggle [type="checkbox"]:not(:checked) + label:before {
+  top: 4px;
+}
+.collapsible li div.help {
+  background: rgba(255, 255, 255, 0.5);
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  padding: 10px;
+  color: #666;
+}
+.collapsible li div.help strong {
+  font-weight: 700;
+}
+.collapsible li .custom_isf td th {
+  background: #333;
+  color: #fff;
+}
+.collapsible li .custom_isf td td input[type=text] {
+  background: #fff;
+}
+.collapsible li .dynamic-table tr {
+  background: #fff;
+}
+.collapsible li .dynamic-table .btn {
+  outline: 0;
+  color: #fff;
+}
+.collapsible li .dynamic-table .btn:hover {
+  color: #fff;
+}
+.collapsible li .dynamic-table .btn.add {
+  width: 100%;
+}
+.collapsible li .dynamic-table .del {
+  width: 50px;
+  padding-left: 10px;
+  padding-top: 18px;
+}
+.collapsible li td .filters .add {
+  margin: 0;
+}
+.collapsible li td .filters .text p {
+  padding: 0;
+}
+.collapsible li td .filters .text p a {
+  display: inline-block;
+  margin-right: 20px;
+}
+.collapsible li td .filters .text p input[type=text] {
+  width: 77%;
+}
+.collapsible li td .filters .text p input[type=radio] {
+  position: static;
+}
+.collapsible li td .filters .reset {
+  background-color: #fff;
+  text-align: right;
+}
+.collapsible li td .filters .reset button {
+  color: #333;
+}
+.collapsible li td .filters .reset button:hover {
+  color: #000;
+}
+#tutorial h5 {
+  margin: 60px 0 20px;
+}
+#images .actions {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+  margin: 10px;
+}
+#images .actions.source-posts .checkboxes strong,
+#images .actions.source-woocommerce .checkboxes strong {
+  font-weight: bold;
+  width: 90px;
+  display: inline-block;
+}
+#images .actions.source-posts .checkboxes label,
+#images .actions.source-woocommerce .checkboxes label {
+  display: inline-block;
+  margin-right: 20px;
+}
+#images .actions.source-posts .checkboxes [type="checkbox"] + label:before,
+#images .actions.source-woocommerce .checkboxes [type="checkbox"] + label:before {
+  left: 6px;
+}
+#images .actions.source-posts .checkboxes [type=text],
+#images .actions.source-woocommerce .checkboxes [type=text] {
+  max-width: 200px;
+}
+#images .actions label {
+  font-weight: bold;
+  cursor: default;
+  display: block;
+  margin-bottom: 10px;
+}
+#images .actions label span {
+  font-weight: normal;
+  padding-left: 10px;
+}
+#images .actions .row {
+  margin: 0 0 10px 0;
+}
+#images .actions .bulk .panel {
+  display: none;
+}
+#images .actions .bulk .panel label {
+  display: inline-block;
+  margin-right: 30px;
+  padding-left: 28px;
+}
+#images .actions .bulk .panel p {
+  padding: 1rem 0;
+}
+#images .actions .tips {
+  font-style: italic;
+  color: #777;
+  padding: 5px 10px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 4px;
+}
+#images .actions .tips strong {
+  font-weight: 700;
+}
+#images .source-panel {
+  display: none;
+}
+#image-panel-model[data-source=posts] {
+  width: 300px;
+}
+#image-panel-model[data-source=posts] .right-side {
+  display: none;
+}
+#image-panel-model .right-side {
+  margin-left: 170px;
+}
+#image-panel-model .right-side .field {
+  margin-bottom: 14px;
+}
+#image-panel-model .right-side textarea {
+  height: 3.75rem;
+}
+#image-panel-model .right-side input[type=text] {
+  height: 2em;
+  padding: 0 6px;
+  width: 96%;
+}
+#image-panel-model .right-side input[type=text],
+#image-panel-model .right-side textarea {
+  border: 1px solid #ccc;
+  margin-bottom: 0;
+}
+#image-panel-model .right-side .info {
+  font-size: 11px;
+  margin: 0;
+}
+#image-panel-model .right-side .filters {
+  margin-top: 15px;
+}
+#image-panel-model .right-side .filters label {
+  margin-right: 30px;
+  padding-left: 28px;
+}
+#video-panel-model textarea {
+  height: 160px;
+}
+#image-list .card.selected {
+  border: 2px solid #000;
+}
+#image-list .card.hidden-T .card-image {
+  /*&:after {
+          display: block;
+          content:"";
+          position: absolute;
+          top:0;
+          right:0;
+          left:0;
+          bottom:0;
+          z-index: 1;
+        }*/
+}
+#image-list .card.hidden-T .card-image .card-title {
+  display: none;
+}
+#image-list .card .card-hidden {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #fff;
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+  text-align: center;
+  color: #ff8000;
+}
+#image-list .card .card-image {
+  cursor: move;
+  background-size: cover;
+}
+#image-list .card .card-image iframe {
+  width: 100%;
+}
+#image-list .card p {
+  padding: 0;
+  min-height: 20px;
+}
+#image-list .card a {
+  color: #388E3C;
+}
+#image-list .card a.remove {
+  color: #f00;
+}
+#image-list .card .filters {
+  position: absolute;
+  top: 10px;
+  left: 0px;
+  z-index: 10;
+}
+#image-list .card .filters li {
+  background: #fff;
+  color: #666;
+  padding: 2px 10px;
+  margin: 0 0 2px 0;
+  border-top-right-radius: 4px;
+}
+#delete-gallery-modal span {
+  color: #ff8a0b;
+  font-weight: bold;
+}
+#spinner {
+  display: none;
+  position: fixed;
+  top: 50px;
+  right: 50px;
+}
+#spinner.shown {
+  display: block;
+}
+.listview {
+  font-size: 16px;
+  display: inline;
+  float: left;
+}
+.li {
+  cursor: pointer;
+  font-size: 16px;
+  display: inline;
+  float: left;
+  margin-left: 7px;
+}
+.filter-item {
+  cursor: pointer;
+  display: inline;
+  float: left;
+  font-size: 16px;
+  margin-left: 10px;
+}
+.filter-list {
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 12px;
+  background-color: #FDF4F3;
+}
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:before,
+.cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+.cf:after {
+  clear: both;
+}
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+  *zoom: 1;
+}
+
+#fs_connect {
+  margin: 60px auto !important;
+}
+#fs_connect .fs-visual .dashicons-wordpress {
+  height: 76px !important;
+  width: 76px !important;
+}
